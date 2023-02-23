@@ -1,0 +1,17 @@
+ .container{
+    /* background-image: url("../Images/Background-Inage.png");  */
+    background-repeat: none;
+    /* background-color: rgb(248, 246, 243); */
+    background-size: auto;
+    margin-top: 60px;
+    border-radius: 25px;
+}
+.ddd{
+  background-color: rgb(228, 219, 219);
+  border-radius: 10px;
+  justify-items: center;
+  align-items: center;
+  margin-left: 1rem;
+  margin-right: 0rem;
+
+}

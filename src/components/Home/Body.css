@@ -1,0 +1,8 @@
+.scrolling{
+    color: black;
+    background-color: rgb(241, 238, 231);
+    background-size: cover;
+}
+.carousel-main{
+    height: 90%;
+}

@@ -1,0 +1,103 @@
+ /* body {
+    height: 100%;
+  }
+   
+  .text-item {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    border: 2px solid;
+    
+    background-color: #f3e4e4;
+    background-image:url("https://www.shutterstock.com/image-vector/global-internet-network-security-digital-260nw-604575887.jpg");
+  }
+
+  .form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+  }
+  .form-signin .checkbox {
+    font-weight: 400;
+  }
+  .form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .form-signin .form-control:focus {
+    z-index: 2;
+  }
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }  */
+  
+
+  body {
+    background: #0e101c;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    color: white;
+   
+  }
+.App {
+    background-color: white;
+    max-width:650%;
+    margin: 0 auto;
+  }
+  
+  .Auth-form-container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     /* top: -100px; */
+    width: 100%;
+    height: 90vh; 
+    background-image: url("../Images/Background-Inage.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  .Auth-form {
+    width: 450px;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 15px;
+    padding-bottom: 2px;
+    border-radius: 8px;
+    background-color: rgb(151, 150, 150);
+  }
+  
+  .Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+    background-color: rgb(196, 192, 201);
+  }
+  
+  .Auth-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 24px;
+    color: rgb(34, 34, 34);
+    font-weight: 750;
+  }
+  
+  label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(34, 34, 34);
+  }
